@@ -1,0 +1,25 @@
+@font-face {
+    font-family: brodway;
+    src: url(../Tipografias/WalkingBroadwayDEMO.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: rasa_regular;
+    src: url(../Tipografias/Rasa/Rasa-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: rasa_italic;
+    src: url(../Tipografias/Rasa/Rasa-Italic.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: rasa_medium;
+    src: url(../Tipografias/Rasa/Rasa-Medium.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: rasa_blod;
+    src: url(../Tipografias/Rasa/Rasa-Bold.ttf);
+    font-weight: 900;
+}
